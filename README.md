@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 ---
 
 ## Stats
-  
-<img style="align:center" src="https://github-readme-stats.vercel.app/api?username=AeromusGyan&show_icons=true&theme=nightowl" alt="AeromusGyan"/>
+  [![Gyan Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeromusGyan)](https://github.com/AeromusGyan/github-readme-stats)
+<!-- <img style="align:center" src="https://github-readme-stats.vercel.app/api?username=AeromusGyan&show_icons=true&theme=nightowl" alt="AeromusGyan"/> -->
 &nbsp;
 <img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=AeromusGyan&theme=nightowl" alt="AeromusGyan"/>
 
