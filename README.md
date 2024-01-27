@@ -84,5 +84,5 @@ Here are some ideas to get you started:
 
 [website]: https://sciaku.com/
 [twitter]: https://twitter.com/aeromusgyan
-[instagram]: https://www.instagram.com/sciaku_science_knowledge/
+[instagram]: https://www.instagram.com/knowledge_of_lights/
 [linkedin]: https://www.linkedin.com/in/gyankaknowledge
