@@ -52,7 +52,7 @@ const gyanPrakash = {
 |---|---|
 | API Performance Optimization | **30% improvement** in response times |
 | Video Streaming Enhancement | **30% improvement** using HLS/M3U8 adaptive bitrate |
-| Production Deployments | **5+ full-stack apps** on AWS EC2 + Nginx |
+| Production Deployments | **10+ full-stack apps** on AWS EC2 + Nginx |
 | Scheduling Error Reduction | **40% fewer errors** via smart admin dashboards |
 | Maps Integration | **25% reduction** in manual data entry |
 | Deployment Downtime | **15% reduction** via optimized Nginx pipelines |
